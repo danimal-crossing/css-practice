@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body {
+  margin: 0 auto;
+  width: 50em;
+  font-family: "Roboto Mono", "Helvetica", "Arial", sans-serif;
+  color: #566b78;
+}
+
+main {
+  line-height: 1.5em;
+  padding: 4em 1em;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+h1, h2 {
+  color: #333
+}
+
+a {
+  color: #e81c4f;
+}
